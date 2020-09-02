@@ -1,4 +1,6 @@
 # hello-world
+<img src="/output/firstComponent.PNG" alt="output modul 3"/>
+<img src="/output/welcomeVue.PNG" alt="output modul 3"/>
 
 ## Project setup
 ```
